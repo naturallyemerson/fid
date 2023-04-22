@@ -4,7 +4,7 @@
   <meta charset="utf-8" >
   <title>Thank you for your order</title>
   <link rel="stylesheet" href="bistrostyles.css">
-  <style type="text/css">
+  <style>
   p.disclaimer { 
     border-top: 1px solid #d1633c; 
     padding-top: 1em;
