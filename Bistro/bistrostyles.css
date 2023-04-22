@@ -1,0 +1,86 @@
+body {
+    background-color: #abe4ff;
+    background: #c5ebfd url(images/blackgoose.png) no-repeat center 100px fixed;
+    margin: 0 10%;
+    font-size: 100%;
+    line-height: 175%;
+    font-family: Georgia, serif;
+    text-align: center;
+    }
+header {
+    background-color: rgba(187, 209, 250, 0.5);
+    background-position: center top;
+    margin-top: 0;
+    text-align: center;
+    color: #6495ed;
+    font-family: Georgia, serif;
+}
+a:link {
+    text-decoration: none;
+    color:#6495ed;
+}
+a:visited {
+    color: #4169e1;
+}
+a:focus, a:hover {
+    color: #5184e3;
+    background-color: #fff;
+}
+a:active {
+    color: #78a7ff;
+    background-color: #fff;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+    color: #6495ed;
+}
+h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    font-size: xx-large;
+    text-transform: uppercase;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+    color: #1e90ff;
+    text-shadow: .1em .1em .2em gray;
+}
+h2 {
+    color: #8db0df;
+    font-size: 1em;
+    font-size: larger;
+}
+footer {
+    border-top: 1px solid #57b1dc;
+    text-align: center;
+    padding-top: 1em;
+}
+footer img {
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+dt {
+    font-weight: bold;
+}
+strong {
+   font-style: italic;
+}
+#info p {
+    font-style: italic;
+}
+.price {
+    font-family: Georgia, serif;
+    font-style: italic;
+}
+p.warning, sup {
+    font-size: small;
+}
+.label {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: normal;
+}
