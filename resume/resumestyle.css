@@ -15,6 +15,7 @@ h1{
     text-transform: uppercase;
     border-bottom: 1px solid black;
     margin-top: 30px;
+    text-shadow: .1em .1em .2em gray;
 }
 h2{
     color: rgb(96, 111, 250);
