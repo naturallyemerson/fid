@@ -62,3 +62,6 @@ img {
 a:focus, a:hover {
     background-color: #d1bbff;
 }
+nav {
+    text-align: center;
+}
